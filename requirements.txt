@@ -9,7 +9,7 @@ brotlipy==0.7.0
 certifi==2021.10.8
 click==8.0.3
 comtypes==1.1.10
-conda==4.11.0
+conda==4.3.16
 conda-build==3.21.7
 conda-verify==3.4.2
 cytoolz==0.11.0
